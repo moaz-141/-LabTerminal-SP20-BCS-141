@@ -6,3 +6,5 @@ Question 1:
           login page is displayed from /pages/login directory
 
 Question 2:
+          Done with server side rendering (EJS)
+          Data is stored in local database (MongoDB)
